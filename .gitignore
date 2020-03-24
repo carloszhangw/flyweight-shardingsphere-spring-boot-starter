@@ -1,0 +1,16 @@
+.settings
+.classpath
+.project
+classes
+target
+*.iml*.properties
+.idea
+*.iml
+*/*.iml
+.gitignore
+!/.gitignore
+logs/*.log
+*.iml
+*.ipr
+*.iws
+.idea/

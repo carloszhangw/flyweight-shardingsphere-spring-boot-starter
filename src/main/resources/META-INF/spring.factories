@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.AutoConfigurationImportFilter=\
+  com.flyweight.platform.tools.shardingsphere.boot.ShardingJdbcAutoConfigurationImportFilter
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.flyweight.platform.tools.shardingsphere.boot.ShardingJdbcAutoConfiguration
+
